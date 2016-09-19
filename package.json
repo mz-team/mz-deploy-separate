@@ -1,0 +1,29 @@
+{
+  "name": "mz-deploy-separate",
+  "version": "1.1.0",
+  "description": "用于分类发布,如大文件发布至svn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mz-team/mz-deploy-separate.git"
+  },
+  "keywords": [
+    "mz",
+    "fis"
+  ],
+  "author": {
+    "name": "kaiye"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mz-team/mz-deploy-separate/issues"
+  },
+  "homepage": "https://github.com/mz-team/mz-deploy-separate#readme",
+  "_npmUser": {
+    "name": "ccfnever",
+    "email": "349090627@qq.com"
+  }
+}
